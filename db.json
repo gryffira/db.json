@@ -1,24 +1,27 @@
 {
-  "portfolio": [
-    {
-      "id": 1,
-      "title": "Karawang Bekrja(web)",
-      "description": "membuat web statis"
-    },
-    {
-      "id": 2,
-      "title": "Pengaruh Musik(animasi)",
-      "description": "animasi 2 dimensi menggunakan software pencil 2d dengan durasi selama 1 menit"
-    },
-    {
-      "id": 3,
-      "title": "Pensil Ajaib(animasi)",
-      "description": "animasi stop motion menggunakan software after effect dengan durasi 5 menit"
-    },
-     {
-      "id": 4,
-      "title": "Komsi Learning(web)",
-      "description": "website pembelajaran mahasiswa komsi"
-    }
-  ]
+  "portfolio" : [{
+  "id": 1,
+  "name": " Karawang Bekerja (Web statis) ",
+  "description": "Portal untuk encari kerja wilayah Karawang"
+}, {
+  "id": 2,
+  "name": " Pensil Ajaib (Stop motion) ",
+  "description": "Stop Motion berdurasi 5 menit"
+}, {
+  "id": 3,
+  "name": "Twin Guitar (Pahatan)",
+  "description": "Pahatan dari Gypsum"
+}, {
+  "id": 4,
+  "name": "Daniel Radcfliff (Sketsa 2D)",
+  "description": "Sketsa pensil 2"
+}, {
+  "id": 5,
+  "name": "Pengaruh Musik (Animasi 2D)",
+  "description": "Animasi 2 dimensi yang berdurasi 10 detik"
+}, {
+  "id": 6,
+  "name": "Idaho Capitol Building (Sketsa 3D)",
+  "description": "Arsitekutur bangunan" 
+}]
 }
