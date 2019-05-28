@@ -1,27 +1,15 @@
 {
   "portfolio" : [{
   "id": 1,
-  "name": " Karawang Bekerja (Web statis) ",
-  "description": "Portal untuk encari kerja wilayah Karawang"
+  "name": "Karawang Bekerja (Static Web) ",
+  "description": "Lorem ipsum dolor sit amet, mel at elit dicit commodo, sea ei aeterno delicata convenire."
 }, {
   "id": 2,
-  "name": " Pensil Ajaib (Stop motion) ",
-  "description": "Stop Motion berdurasi 5 menit"
+  "name": "Pengaruh Musik (Animasi 2D)",
+  "description": "Lorem ipsum dolor sit amet, mel at elit dicit commodo, sea ei aeterno delicata convenire."
 }, {
   "id": 3,
-  "name": "Twin Guitar (Pahatan)",
-  "description": "Pahatan dari Gypsum"
-}, {
-  "id": 4,
-  "name": "Daniel Radcfliff (Sketsa 2D)",
-  "description": "Sketsa pensil 2"
-}, {
-  "id": 5,
-  "name": "Pengaruh Musik (Animasi 2D)",
-  "description": "Animasi 2 dimensi yang berdurasi 10 detik"
-}, {
-  "id": 6,
-  "name": "Idaho Capitol Building (Sketsa 3D)",
-  "description": "Arsitekutur bangunan" 
+  "name": "Melodi(UI/UX Design)",
+  "description": "Lorem ipsum dolor sit amet, mel at elit dicit commodo, sea ei aeterno delicata convenire."
 }]
 }
